@@ -175,9 +175,9 @@ def user_stats(df):
 
     # TO DO: Display earliest, most recent, and most common year of birth
     
-    print('earliest year of birth', df['Birth Year'].min(),'\n')
-    print('most recent year of birth', df['Birth Year'].max(),'\n')
-    print('most common year of birth', df['Birth Year'].mode()[0],'\n')
+    print('Earliest year of birth', df['Birth Year'].min(),'\n')
+    print('Most recent year of birth', df['Birth Year'].max(),'\n')
+    print('Most common year of birth', df['Birth Year'].mode()[0],'\n')
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
@@ -192,7 +192,7 @@ def user_stats(df):
         else:
             break
 
-   # added comment to check git branching 
+   # added comment to check refactoring branching 
     
 
 def main():
