@@ -1,23 +1,3 @@
-### Date created
-Include the date you created this project and README file.
-
-### Project Title
-Replace the Project Title
-
-### Description
-Describe what your project is about and what it does
-
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-### Git project
-it is a new project for checking 
-
-### Git refectoring 
-it is a new refactoring file
-
+## This is a command line interface application written in Python 3 that analyzes bikeshare data from three US cities, created as part of the Data Analyst Nanodegree by Udacity. The user can filter the summary statistics by city, month, and day.
 
 
